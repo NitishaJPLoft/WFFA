@@ -1,0 +1,47 @@
+@font-face {
+  font-family: 'Avenir LT Std';
+  src: url('../fonts/AvenirLTStd-Roman.woff2') format('woff2'),
+    url('../fonts/AvenirLTStd-Roman.woff') format('woff'),
+    url('../fonts/AvenirLTStd-Roman.svg#AvenirLTStd-Roman') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Avenir LT Std';
+  src: url('../fonts/AvenirLTStd-Black.woff2') format('woff2'),
+    url('../fonts/AvenirLTStd-Black.woff') format('woff'),
+    url('../fonts/AvenirLTStd-Black.svg#AvenirLTStd-Black') format('svg');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Avenir LT Std';
+  src: url('../fonts/AvenirLTStd-Book.woff2') format('woff2'),
+    url('../fonts/AvenirLTStd-Book.woff') format('woff'),
+    url('../fonts/AvenirLTStd-Book.svg#AvenirLTStd-Book') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Gotham';
+  src: url('../fonts/GothamBlack-Italic.woff2') format('woff2'),
+      url('../fonts/GothamBlack-Italic.woff') format('woff');
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Gotham';
+  src: url('../fonts/GothamBlack.woff2') format('woff2'),
+      url('../fonts/GothamBlack.woff') format('woff');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
